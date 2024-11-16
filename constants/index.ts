@@ -5,8 +5,8 @@ export const navLinks = [
       icon: '/assets/icons/home.svg',
     },
     {
-      label: 'Feature 1',
-      route: '/features/feature1',
+      label: 'Resources',
+      route: '/features/resources',
       icon: '/assets/icons/stars.svg',
     },
     {
